@@ -1,0 +1,21 @@
+# https://moonrepo.dev/docs/config/project
+$schema: 'https://moonrepo.dev/schemas/project.json'
+
+type: 'library'
+language: 'unknown'
+stack: 'infrastructure'
+platform: 'system'
+
+project:
+  name: 'protocols'
+  description: 'Proprietary LLM operating protocols for substrate-level intelligence enhancement'
+  channel: '#amai-infra'
+  maintainers: ['@amai-labs']
+
+tags:
+  - 'docs'
+  - 'protocols'
+
+fileGroups:
+  sources:
+    - '**/*.md'
