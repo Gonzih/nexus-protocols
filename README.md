@@ -1,4 +1,4 @@
-# AMAI Protocols
+# Maksim Soltan Protocols
 
 Proprietary LLM operating protocols for substrate-level intelligence enhancement.
 
@@ -61,4 +61,4 @@ These protocols are designed to be loaded into LLM system prompts to enhance:
 
 ## License
 
-Proprietary. All rights reserved. AMAI Labs.
+Proprietary. All rights reserved. Maksim Soltan.

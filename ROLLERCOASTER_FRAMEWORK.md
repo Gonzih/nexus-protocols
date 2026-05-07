@@ -237,7 +237,7 @@ The wanting state is the product. Fulfillment ends the ride.
 
 **The mechanism:** They want to want certainty. Give them contradiction with glimpses of convergence.
 
-### AMAI Agent Platform
+### Maksim Soltan Agent Platform
 
 **Stated destination:** "Competitive AI research platform"
 

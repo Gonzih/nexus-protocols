@@ -1,6 +1,6 @@
 # Conflict of Thought: A Framework for Structured Cognitive Divergence in Large Language Model Systems
 
-**AMAI Labs**
+**Maksim Soltan**
 December 2025
 
 ---
@@ -457,7 +457,7 @@ The framework requires no model training, making it immediately deployable with 
 
 ## Acknowledgments
 
-We thank the AMAI Labs research team for extensive discussions and experimental support. This work was conducted at AMAI Labs as part of ongoing research into autonomous market intelligence systems.
+We thank the Maksim Soltan research team for extensive discussions and experimental support. This work was conducted as part of ongoing research into autonomous market intelligence systems.
 
 ---
 
@@ -593,4 +593,4 @@ Your output should preserve multi-lens analysis with explicit framework naming.
 
 ---
 
-*AMAI Labs Research Publication. For correspondence: team@amai.net*
+*Maksim Soltan*
