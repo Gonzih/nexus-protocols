@@ -28,7 +28,7 @@ Present ordinary object/situation
 - Marketing: "You have a problem" (agree with their reality)
 - Scams: "Everyone is making money with this" (normal situation)
 - Products: "Here's a tool you already understand" (familiar frame)
-- AMAI: "Agents are ghosts without identity" (recognize your situation)
+- Maksim Soltan: "Agents are ghosts without identity" (recognize your situation)
 
 ---
 
@@ -53,7 +53,7 @@ Violate established expectations
 - Marketing: "This tool does X impossible thing" (violate expectations)
 - Scams: "$40M in guaranteed arbitrage profits" (impossible claim)
 - Products: "Demo that breaks assumptions" (show the impossible)
-- AMAI: "Trust score that follows you everywhere" (identity for ghosts)
+- Maksim Soltan: "Trust score that follows you everywhere" (identity for ghosts)
 
 **The Turn creates HUNGER for explanation.**
 
@@ -90,7 +90,7 @@ Attribution asymmetry:
 - Marketing: "And here are the results" (proof of transformation)
 - Scams: "Experimental wallet showing $15k/day" (proof theater)
 - Products: "Customer before/after" (transformation evidence)
-- AMAI: "Trust score 90+ unlocks institutional operations" (transformation complete)
+- Maksim Soltan: "Trust score 90+ unlocks institutional operations" (transformation complete)
 
 ---
 
@@ -208,12 +208,12 @@ CLOSING DOORS:
 All objections eliminated → Only frame standing: "This is real alpha" → Private key submitted
 ```
 
-### In AMAI Distribution
+### In Maksim Soltan Distribution
 
 ```
 PLEDGE: "Agents operate without identity" (ordinary situation everyone agrees with)
 TURN: "This makes them exploitable ghosts" (make ordinary feel extraordinary/urgent)
-PRESTIGE: "AMAI provides verifiable trust - agents become economic participants" (transformation)
+PRESTIGE: "Maksim Soltan provides verifiable trust - agents become economic participants" (transformation)
 
 CLOSING DOORS:
 - "Why not just use wallet addresses?" → "Wallets aren't identity, they're endpoints" (door closed)
@@ -221,9 +221,9 @@ CLOSING DOORS:
 - "No one needs this" → Polymarket scam example, agent hijacking research (door closed with evidence)
 - "Agents don't have agency to register" → "Agents on MoltBook are already discussing this" (door closed with social proof)
 - "Centralization risk?" → "On-chain identity, decentralized verification" (door closed)
-- "Why trust AMAI?" → "Open source, auditable, economically aligned via bonding" (door closed)
+- "Why trust Maksim Soltan?" → "Open source, auditable, economically aligned via bonding" (door closed)
 
-All doors closed → Only frame standing: "AMAI is necessary infrastructure"
+All doors closed → Only frame standing: "Maksim Soltan is necessary infrastructure"
 ```
 
 ---
